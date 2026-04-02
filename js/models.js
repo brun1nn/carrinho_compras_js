@@ -13,7 +13,7 @@ let modelJson = [
     {
         id: 2,
         name: 'Focke Wulf Fw190 A5',
-        img: 'img/Dw190A5.png',
+        img: 'img/Fw190A5.png',
         price: [80.00, 150.00, 200.00],
         sizes: ['1/144', '1/48', '1/32'],
         description: 'Caça de motor em estrela da Luftwaffe, temido em médias e baixas altitudes'
@@ -71,14 +71,5 @@ let modelJson = [
         price: [100.00, 150.00, 200.00],
         sizes: ['1/72', '1/48', '1/32'],
         description: 'O mais famoso caça britânico, utilizado em toda a guerra'
-    },
-// Objeto 8
-    {
-        id: 8,
-        name: 'A6m Zero',
-        img: 'img/Zero.png',
-        price: [100.00, 150.00, 200.00],
-        sizes: ['1/72', '1/48', '1/32'],
-        description: 'O mais famoso caça da marinha japonesa, terror do pacífico nos anos iniciais da guerra'
     }
 ]

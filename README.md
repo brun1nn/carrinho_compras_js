@@ -1,6 +1,6 @@
 # Carrinho de Compras - Modelos de Aviões de Guerra
 
-Projeto desenvolvido em 2021, durante aulas de Linguagem e Desenvolvimento Web, do curso Técnico de Informática integrado ao Ensino Médio, no Instituto Federal de Caraguatatuba.
+Projeto desenvolvido em 2026, durante aulas de Linguagem e Desenvolvimento Web, do curso Técnico de Desenvolvimento de Sistemas no SENAI.
 
 ## Descrição do Projeto
 

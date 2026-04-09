@@ -1,5 +1,5 @@
 // Digitar aqui o código do models.js
-let modelJson = [
+let modelsJson = [
     // Objeto 1
     {
         id: 1,

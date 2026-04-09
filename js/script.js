@@ -119,7 +119,7 @@ c('.menu-closer').addEventListener('click', ()=> {
 })
 
 // Evento de clique para finalizar a compra e limpar o carrinho
-c('.cart-finalizar').addEventListener('click', ()=>{
+c('.cart--finalizar').addEventListener('click', ()=>{
     cart = [];
     updateCart();
 })
